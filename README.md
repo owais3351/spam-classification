@@ -1,1 +1,1 @@
-Spam calssification
+Spam calssification and sentiment analysis
